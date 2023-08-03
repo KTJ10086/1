@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "./images/1.jpg"
+  avatar           : "profile.png"
   bio              : 
   location         : "ShenZhen"
   employer         :
