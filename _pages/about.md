@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "The followings are my study"
+title: <b>"The followings are my study:"</b>
 excerpt: "About me"
 author_profile: true
 redirect_from: 
