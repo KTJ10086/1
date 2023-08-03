@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <b>"The followings are my study:"</b>
+title: "The followings are my study:"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+The followings are my study:
 
 Multimodal Artificial Intelligence Large Models for Small-Molecule Drug Generation and Description
 ======
